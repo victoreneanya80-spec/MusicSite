@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2a1608"/><stop offset="100%" stop-color="#7a3b0c"/></linearGradient>
+  </defs>
+  <rect width="640" height="300" fill="url(#sky)"/>
+  <polygon points="120,0 60,230 180,230" fill="#ffd27a" opacity="0.18"/>
+  <polygon points="320,0 250,230 390,230" fill="#ffd27a" opacity="0.25"/>
+  <polygon points="520,0 460,230 580,230" fill="#ffd27a" opacity="0.18"/>
+  <rect x="0" y="200" width="640" height="30" fill="#3a2410"/>
+  <circle cx="320" cy="160" r="14" fill="#120c06"/><rect x="308" y="174" width="24" height="28" rx="6" fill="#120c06"/>
+  <g fill="#120c06">
+    <circle cx="40" cy="265" r="16"/><circle cx="95" cy="270" r="18"/><circle cx="150" cy="262" r="16"/><circle cx="205" cy="272" r="18"/>
+    <circle cx="260" cy="264" r="16"/><circle cx="320" cy="272" r="18"/><circle cx="380" cy="264" r="16"/><circle cx="435" cy="270" r="18"/>
+    <circle cx="490" cy="262" r="16"/><circle cx="545" cy="270" r="18"/><circle cx="600" cy="265" r="16"/>
+    <rect x="0" y="275" width="640" height="25"/>
+  </g>
+  <text x="320" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#ffd27a" font-weight="bold">AFRO-FUSION LIVE</text>
+</svg>
